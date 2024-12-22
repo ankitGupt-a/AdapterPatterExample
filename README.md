@@ -1,0 +1,1 @@
+# AdapterPatterExample
